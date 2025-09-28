@@ -43,7 +43,7 @@ public class Seed
                     DateOfBirth = member.DateOfBirth,
                     ImageUrl = member.ImageUrl,
                     Gender = member.Gender,
-                    City = member.Country,
+                    City = member.City,
                     Country = member.Country,
                     LastActive = member.LastActive,
                     Created = member.Created
